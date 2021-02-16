@@ -1,0 +1,18 @@
+#camera , #result
+{
+  border: 2px dotted aqua;
+  height: 300;
+  width: 350;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+span{
+  font-size: 40px;
+  margin: 10px;
+}
